@@ -42,7 +42,7 @@ html, body {
     box-shadow: 0 0 5px rgba(220, 53, 69, 0.5);
 }
 
-.table-header-custom {
+.table-header-custom tr th{
     background-color: #6b4226; 
     color: #FFFFFF;
     text-align: center;
